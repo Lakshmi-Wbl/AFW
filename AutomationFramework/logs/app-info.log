@@ -1,0 +1,19 @@
+[INFO ] 2018-02-23 14:17:48.360 [main] ExcelHelper - In excel reader utility
+[INFO ] 2018-02-23 14:17:48.871 [main] ExcelHelper - total rows:2
+[INFO ] 2018-02-23 14:17:48.872 [main] ExcelHelper - total cols:2
+[INFO ] 2018-02-23 14:17:48.878 [main] ExcelHelper - total cols:2
+[INFO ] 2018-02-23 14:17:48.953 [main] WebDriverUtil - In get Driver method -browser:firefox
+[INFO ] 2018-02-23 14:18:04.619 [main] WebDriverUtil - In get Driver method -browser:firefox
+[INFO ] 2018-02-23 15:26:34.731 [main] WebDriverUtil - In get Driver method -browser:firefox
+[INFO ] 2018-02-23 15:38:00.402 [main] WebDriverUtil - In get Driver method -browser:firefox
+[INFO ] 2018-02-23 15:38:09.226 [main] BaseTest -  rs test case name after every method:sliderImagesTest
+[INFO ] 2018-02-23 16:15:39.476 [main] WebDriverUtil - In get Driver method -browser:firefox
+[INFO ] 2018-02-23 16:15:47.617 [main] LoggerListener - Test Started....
+[ERROR] 2018-02-23 16:15:47.868 [main] LoggerListener - Test 'headerNavLinksTest' FAILED
+[ERROR] 2018-02-23 16:15:47.868 [main] LoggerListener - Priority of this method is 0
+[INFO ] 2018-02-23 16:15:47.869 [main] BaseTest -  rs test case name after every method:headerNavLinksTest
+[INFO ] 2018-02-23 16:15:49.624 [main] WebDriverUtil - In get Driver method -browser:firefox
+[INFO ] 2018-02-23 16:15:57.028 [main] LoggerListener - Test Started....
+[ERROR] 2018-02-23 16:15:57.282 [main] LoggerListener - Test 'sliderImagesTest' FAILED
+[ERROR] 2018-02-23 16:15:57.282 [main] LoggerListener - Priority of this method is 0
+[INFO ] 2018-02-23 16:15:57.283 [main] BaseTest -  rs test case name after every method:sliderImagesTest
